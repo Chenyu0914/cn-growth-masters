@@ -6,13 +6,13 @@
 
 ```bash
 # 单独安装
-npx skills add yourname/tang-xingtong-growth
-npx skills add yourname/shen-chen-panda
-npx skills add yourname/li-yan-growth-engineering
-npx skills add yourname/yu-weilin-private-domain
+npx skills add Chenyu0914/tang-xingtong-growth
+npx skills add Chenyu0914/shen-chen-panda
+npx skills add Chenyu0914/li-yan-growth-engineering
+npx skills add Chenyu0914/yu-weilin-private-domain
 
 # 或一次性安装全部（需配合 skills.json）
-npx skills add yourname/china-growth-masters
+npx skills add Chenyu0914/cn-growth-masters
 ```
 
 ## Skill 清单
